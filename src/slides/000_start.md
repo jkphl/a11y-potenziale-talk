@@ -3,7 +3,7 @@ title: "Start"
 valign: middle
 ---
 # Barrierefreie Potenziale
-<p class="tagline">Momentaufnahme zur Barrierefreiheit im Web</p>
+<p class="tagline">Momentaufnahmen zur Barrierefreiheit im Web</p>
 ---
 <div class="p-author h-card">
     <span class="visually-hidden">Vorgetragen zur Internen Fortbildung im </span>capito Netzwerk<span aria-hidden="true">, </span><span class="visually-hidden">am</span> 29. September 2020<br/>

@@ -7,7 +7,7 @@ gulp.task('default', function () {
         .pipe(Slideshow.stream({
             title: 'Barrierefreie Potenziale — Bildschirmpräsentation vom 29. September 2020',
             author: 'Joschi Kuphal',
-            description: 'Momentaufnahme zur Barrierefreiheit im Web',
+            description: 'Momentaufnahmen zur Barrierefreiheit im Web',
             language: 'de',
             charset: 'UTF-8',
         }))
