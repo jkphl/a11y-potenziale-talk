@@ -4,7 +4,7 @@ title: "Agenda"
 ## Momentaufnahmen
 
 - Über mich
-- Was macht tollwerk?
+- Über tollwerk
 - Barrierefreiheit im Web
 - Stand der Dinge
 - Hallo, ich hätte gern …

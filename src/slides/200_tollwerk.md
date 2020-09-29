@@ -1,8 +1,8 @@
 ---
-title: "Über mich"
+title: "Über tollwerk"
 valign: middle
 theme: secondary
 ---
 
-## Was macht tollwerk?
+## Über tollwerk
 Leistungen & Schwerpunkte
