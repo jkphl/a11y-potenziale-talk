@@ -7,8 +7,8 @@ title: "Web- & Werbeagentur"
 <figcaption>
 
 - Gegründet 2000<br/>als »Full-Service-Agentur«
-- Über die Jahre: Mehr Web als Print
-- Seit 2016: Positionierung in der Barrierefreiheit
+- Über die Jahre: Verlagerung zu immer mehr Webprojekten
+- Seit 2016: Ausdrückliche Positionierung in der Barrierefreiheit
 
 </figcaption>
 <div class="a11yance">

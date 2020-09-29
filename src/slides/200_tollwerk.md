@@ -5,4 +5,4 @@ theme: secondary
 ---
 
 ## Was macht tollwerk?
-Hintergrund & Aufgaben
+Leistungen & Schwerpunkte

@@ -7,4 +7,5 @@ theme: info
 * Vielschichtigkeit der Zielgruppen
 * Maximal breitentauglich, an der Grenze zur Speziallösung
 * Web & Print
-* Barrierefreie PDFs, Design-Systeme, Gegenständliches u.v.m.
+* Corporate Design, Screen-Design, Design-Systeme
+* Barrierefreie PDFs, Gegenständliches u.v.m.

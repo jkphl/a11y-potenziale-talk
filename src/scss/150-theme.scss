@@ -366,6 +366,13 @@ pre {
     background-repeat: no-repeat;
 }
 
+#wcag-criteria {
+    background-image: url(images/wcag-criteria.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #exclusive {
     color: $white;
     background-image: url(images/exclusive-design.jpg);
